@@ -14,7 +14,7 @@ This repository contains the following sections
     -	Raw data for 92 stocks containing Fmsy data
     -	Raw data for 10 stocks from DFO, for which Fmsy data are unavailable
 
-4) Data for the 2026 PLOS One paper (doi TBD)
+2: Data for the 2026 PLOS One paper (doi TBD)
     - Raw data for the 77 stocks used in the analysis
     - The GitHub repository with the code and output for this paper is https://github.com/Dave-Keith/LTR
     
